@@ -1,6 +1,6 @@
 # REST API With Node, Express, TypeScript & MongoDB
 
-This is a repository for a REST API using Node, Express, Typescript & MongoDB.
+This is a repository for a REST API using Node JS, Express, Typescript & MongoDB.
 
 Features:
 
